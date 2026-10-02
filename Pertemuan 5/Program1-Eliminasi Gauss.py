@@ -5,7 +5,6 @@ A = [
 ]
 
 b = [3.0, 9.0, 4.0]
-
 n = 3
 
 # Forward Elimination
